@@ -1,0 +1,70 @@
+<span class="menu-title" style="display: none">Orador 1</span>
+
+<style>
+	.columna_flex{
+		display:flex;
+			-moz-display:flex;
+			-webkit-display:flex;
+
+		flex-direction:column;
+		justify-content: flex-start;
+	}
+	.fila_flex{
+		display:flex;
+			-moz-display:flex;
+			-webkit-display:flex;
+
+		flex-direction:row;
+		justify-content: space-between;
+	}
+	#title{
+		font-weight: bold;
+		font-size: 1.5em;
+	}
+	#datos{
+		font-size: 0.8em;
+		cursor:pointer;
+	}
+	#datos p:hover{
+		color:#42AFFA;
+	}
+
+</style>
+<div class="fila_flex">
+<!--Columna Perfil -->
+	<div class="columna_flex">
+		<!-- Nombre orador-->
+		<div id="titulo">
+			<span id="title">Erick Carvajal R</span>		
+		</div>	
+	<!-- Foto orador-->
+		<div id="foto">
+			<img src="resources/Profile/4.png">
+		</div>
+	</div>
+<!--Fila Perfil -->
+	<div class="columna_flex">	
+		<div id="datos">
+		<hr>
+			<p class="fragment fade-in">Egresado - Universidad Politécnica Territorial del Oeste de Sucre "Clodosbaldo Russián"</p>
+
+			<p class="fragment fade-in">Coordinador de linea Grupo de investigación SeSLi (Semillero en Software Libre)</p>
+			
+			<p class="fragment fade-in">Organizador y Ponente Flisol, Dfd...</p>
+
+			<p class="fragment fade-in">2do Lugar Appday Mozilla</p>
+
+			<p class="fragment fade-in">Desarrollador a ratos</p>
+
+			<p class="fragment fade-in">Cumaná, estado Sucre</p>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+ var texto = document.getElementById("datos");
+ var tamaño = texto.length;
+ for (var i=0; i <= tamaño; i++) {
+ 	console.log("$i");
+ }
+</script>
+

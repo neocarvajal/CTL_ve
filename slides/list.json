@@ -1,0 +1,110 @@
+[
+    {
+            "filename": "index.html",
+            "attr": {"data-background": "resources/Canaima/canaima-dual.jpg"}
+    },    
+    "contenido-1.html",    
+    [
+    	{
+    		"filename": "oradores.html",
+    		"attr": {"data-background": "resources/background/123.jpg"}
+    	},
+    	{
+    		"filename": "orador-1.html",
+    		"attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+    	}
+    ],
+    [
+        {
+            "filename": "tablet-canaima.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        },
+        {
+            "filename": "tablet-canaima-hardware.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        },
+        {
+            "filename": "tablet-canaima-hardware-intel.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        },
+        {
+            "filename": "tablet-canaima-2.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        },
+        {
+            "filename": "tablet-canaima-sistema.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        },
+        {
+            "filename": "tablet-canaima-software.html",
+            "attr": {"data-background": "resources/background/mouse_.jpg"}
+        }
+    ],
+    [
+        {
+            "filename": "expectativa-vs-realidad.html",
+            "attr": {"data-background": "resources/background/red.png"}
+        },
+        {
+            "filename": "android-gapps.html",
+            "attr": {"data-background": "resources/background/red.png"}
+        }
+    ],
+    [
+        {
+            "filename": "legalidad.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        },
+        {
+            "filename": "legalidad-1.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        }    			
+    ],
+    [
+        {
+            "filename": "libertad-usuarios-2.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        },
+        {
+            "filename": "libertad-usuarios.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        },
+        {
+            "filename": "libertad-usuarios-problemas-1.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        },
+        {
+            "filename": "libertad-usuarios-problemas-2.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        }
+    ],
+    [
+        {
+             "filename": "tr10tool.html",
+              "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        },
+        {
+            "filename": "tr10tool-2.html",
+            "attr": {"data-background": "resources/dummy-parallax-2.jpg"}
+        }
+    ],    
+	{
+		"filename": "letsgo.html",
+		"attr": {"data-background-video": "resources/Video/1.mp4"}
+	},
+    {
+        "filename": "tr10tool-developers.html",
+        "attr": {"data-background": "resources/4.jpg"}
+    },
+    [
+        {
+            "filename": "gracias.html",
+            "attr": {"data-background": "resources/background/bg.jpg"}
+        },
+        {
+            "filename": "flisol.html",
+            "attr": {"data-background": "resources/Profile/avatar-4.gif"}
+        }
+
+    ]
+]
